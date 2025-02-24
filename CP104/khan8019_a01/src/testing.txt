@@ -1,0 +1,56 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Basit Khan
+ID:      169058019
+Email:   khan8019@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+What is a "program"?
+
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+What is your age?60
+What is your favourite band?The Beatles
+I am 60 and The Beatles is my favourite band.
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Length in miles: 35.0
+Length in km: 56.35
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Dosa cost: $52
+Number of dosa: 2
+Total cost of 2.0 dosas: 104.0
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Principal: 5000
+Interest (%): 25
+Number of years: 3
+Number of times interest compounded per year: 12
+10503.749112142117
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
