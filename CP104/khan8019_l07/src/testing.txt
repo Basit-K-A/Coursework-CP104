@@ -1,0 +1,76 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Basit Khan
+ID:      169058019
+Email:   khan8019@mylaurier.ca
+Version: 2023-10-30
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Guess: 5
+Too low
+Guess: 6
+Too low
+Guess: 54
+Too high
+Guess: 25
+Too low
+Guess: 30
+Too low
+Guess: 35
+Too low
+Guess: 40
+Too low
+Guess: 4
+Too low
+Guess: 5
+Too low
+Guess: 45
+Too high
+Guess: 42
+Too low
+Guess: 43
+Too low
+Guess: 44
+Too low
+Congratulations - Good Guess
+you made 13 guesses.
+13
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+1
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+First Positive Value: 5
+Next Positive Value: 53
+Next Positive Value: 5123
+Next Positive Value: 5
+Next Positive Value: -6
+(5.0, 5123.0, 5186.0, 1296.5)
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter an expense(0 to quit): 57452
+Enter another expense (0 to quit): 63
+Enter another expense (0 to quit): 0
+(57515.0, -57415.0, 'Deficit')
+-------------------------------------------------------
+t10
+Employee ID (0 to quit): 52
+Hourly wage rate: 36
+Hours worked: 1
+Net payment for employee 52: 34.70
+Employee ID (0 to quit): 252
+Hourly wage rate: 652
+Hours worked: 3
+Net payment for employee 252: 1885.10
+Employee ID (0 to quit): 0
+(1919.79, 959.895)
+-------------------------------------------------------
